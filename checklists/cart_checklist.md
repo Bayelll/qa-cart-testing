@@ -1,1 +1,1 @@
-/images/checklist_cart.png
+![](../images/checklist_cart.png)
